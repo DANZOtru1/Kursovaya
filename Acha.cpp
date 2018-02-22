@@ -1,7 +1,7 @@
 #include "Acha.h"
 
 
-using namespace System;
+using namespace System; //ûגאûגאûאûגאûגאûגאûגאûא
 using namespace System::ComponentModel;
 using namespace System::Collections;
 using namespace System::Windows::Forms;
